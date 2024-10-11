@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a final project for machine learning and database management using GitHub.
 - 📫 How to reach me: b12705052@ntu.edu.tw
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy skiing, diving, and I’m interested in learning tennis.
+- ⚡ Fun fact: I enjoy skiing, diving, and I’m interested in tennis.
 
 
 <!---
